@@ -40,12 +40,12 @@ Analyzing and understanding judicial opinions
 
 {{% resource_link "acb316e9-9ff7-9ef7-d471-7ac39237b242" "U.S. Constitution, Article, 1 Sec. 8 (PDF)" %}}
 
-{{% resource_link "8398bbab-45fd-380d-f49e-2fb07ef220fd" "Excerpts from U.S. Government Manual (PDF)" %}}, 2011, and from "Court Systems of the United States." {{% resource_link "1e91886b-2b2a-43d2-8ef2-30fa11bb776f" "*Federal Courts and What They Do* (PDF)" %}}. Federal Judicial Center (FJC), n.d.
+{{% resource_link "8398bbab-45fd-380d-f49e-2fb07ef220fd" "Excerpts from U.S. Government Manual (PDF)" %}}, 2011, and from "Court Systems of the United States." [*Federal Courts and What They Do* (PDF)](https://www.fjc.gov/education/inside-federal-courts). Federal Judicial Center (FJC), n.d.
 
 {{% resource_link "f0d8a6f0-27eb-0457-d61f-99740f0fd260" "\"Sample Patent\" (PDF)" %}} for use with the following video:
 
 "Introduction to the Patent System," FJC #4342-V/02, Oct. 2002.    
-{{% resource_link "b0bc57fb-a2e2-46c3-9129-1c036267632e" "Stream video on YouTube" %}}. 
+[Stream video on YouTube](https://www.youtube.com/watch?v=teUtkRop-Pc). 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **PART 2: Comparative overview of patents, copyrights, trade secrets, and trademarks**
@@ -77,7 +77,7 @@ Expression vs. ideas and information, merger
 
 {{% resource_link "ab1c5bc8-737b-0570-7d08-dcdb94587644" "17 U.S.C. (Copyrights), excerpts (PDF)" %}}
 
-Bagley, and Dauchy. Chapter 14 in *The Entrepreneur's Guide to Business Law*. Cengage Learning, 2011, pp. 529–42. ISBN: 9780538466462. \[Preview with {{% resource_link "4130e081-4a59-4ff5-b1f6-34e7532de3e8" "Google Books" %}}\]
+Bagley, and Dauchy. Chapter 14 in *The Entrepreneur's Guide to Business Law*. Cengage Learning, 2011, pp. 529–42. ISBN: 9780538466462. \[Preview with [Google Books](http://books.google.com/books?id=YJzRs2mFkZYC&pg=PAfrontcover)\]
 
 {{% resource_link "6dfabf62-02f3-3b1b-215a-83a1e5e09011" "Selle v. Gibb (PDF)" %}}, 741 F.2d 896 (7th Cir. 1984)
 
@@ -121,7 +121,7 @@ Legal fundamentals of trade-secret protection
 
 {{% resource_link "3e668e40-03c0-4a9e-c201-3a113c493582" "Uniform Trade Secrets Act, abridged, NCCUSL (1985) (PDF)" %}}
 
-Bagley, and Dauchy. Chapter 14 in *The Entrepreneur's Guide to Business Law*. Cengage Learning, 2011, pp. 518–29. ISBN: 9780538466462. \[Preview with {{% resource_link "fc2cfa7b-b5a6-4551-b072-c9003699e5aa" "Google Books" %}}\]
+Bagley, and Dauchy. Chapter 14 in *The Entrepreneur's Guide to Business Law*. Cengage Learning, 2011, pp. 518–29. ISBN: 9780538466462. \[Preview with [Google Books](http://books.google.com/books?id=YJzRs2mFkZYC&pg=PA518#v=onepage)\]
 
 {{% resource_link "6b242cdb-96a2-9fb0-4885-83d37f3e4f34" "Wexler v. Greenberg (PDF)" %}}, 399 Pa. 569 (1960)
 
@@ -133,7 +133,7 @@ Legal fundamentals of trademark protection
 
 {{% resource_link "0467eb19-21d1-511b-5d7f-7051d8c8d9f3" "15 U.S.C., Ch. 22 (Trademarks), excerpts (PDF)" %}}
 
-Bagley, and Dauchy. Chapter 14 in *The Entrepreneur's Guide to Business Law*. Cengage Learning, 2011, pp. 558–69. ISBN: 9780538466462. \[Preview with {{% resource_link "7b580b67-b477-42f7-8853-e120b8818d60" "Google Books" %}}\]
+Bagley, and Dauchy. Chapter 14 in *The Entrepreneur's Guide to Business Law*. Cengage Learning, 2011, pp. 558–69. ISBN: 9780538466462. \[Preview with [Google Books](http://books.google.com/books?id=YJzRs2mFkZYC&pg=PA558#v=onepage)\]
 
 {{% resource_link "3e47fb20-9821-8aae-22da-8df879c735b4" "Lois Sportswear v. Levi Strauss (PDF)" %}}, 799 F.2d 867 (2d Cir. 1986)
 
@@ -223,7 +223,7 @@ The art of drafting patent claims
 
 {{% resource_link "e8204384-b107-28de-e351-2914da9b2f4f" "File history and cited prior patents for U.S. Patent No. 4,408,919 (PDF - 2.2MB)" %}}
 
-Morse's "Claim 8." {{% resource_link "1da85b36-b6a9-4276-9bce-a2434008533f" "*O'Reilly v. Morse*" %}}. Case: 56 U.S. (15 How.) 62, 1853.
+Morse's "Claim 8." [*O'Reilly v. Morse*](http://supreme.justia.com/cases/federal/us/56/62/case.html). Case: 56 U.S. (15 How.) 62, 1853.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -310,9 +310,9 @@ No readings
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "06163f38-46b9-4914-9d17-23fda670d614" "An Inventor's Guide to Technology Transfer at MIT (PDF - 2.1MB)" %}}
+[An Inventor's Guide to Technology Transfer at MIT (PDF - 2.1MB)](http://web.mit.edu/tlo/documents/MIT-TLO-inventors-guide.pdf)
 
-Marx, Matt. "{{% resource_link "110bc588-9630-477d-9a1a-dd9454bbba04" "The Firm Strikes Back: Non-compete Agreements and the Mobility of Technical Professionals" %}}." *American Sociological Review* 76, no. 5 (2011): 695–712.
+Marx, Matt. "[The Firm Strikes Back: Non-compete Agreements and the Mobility of Technical Professionals](http://dx.doi.org/10.1177/0003122411414822)." *American Sociological Review* 76, no. 5 (2011): 695–712.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
